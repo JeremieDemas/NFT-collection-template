@@ -10,7 +10,7 @@ Creation of a template for setting up an NFT collection.
 npm install
 ```
 
-2. Write your contract into the "contracts" folder.
+2. Create the "contracts" folder into the root folder and write your contract into it.
 
 3. Create a new ".env" file into the root folder of the project.
 
